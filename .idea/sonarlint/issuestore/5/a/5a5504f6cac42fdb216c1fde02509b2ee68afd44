@@ -1,0 +1,5 @@
+
+;python:S125"Remove this commented out code.(Î´ê¼þÿÿÿÿ
+;python:S125"Remove this commented out code.(Â²‚œüÿÿÿÿ
+gpython:S1542"PRename function "createRoom" to match the regular expression ^[a-z_][a-z0-9_]*$.(þÊ²4
+gpython:S1542)"PRename function "updateRoom" to match the regular expression ^[a-z_][a-z0-9_]*$.(©’õL
